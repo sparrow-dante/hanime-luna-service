@@ -10,7 +10,7 @@
     "quality": "1080p",
     "baseUrl": "https://hanime.tv/",
     "searchBaseUrl": "https://hanime.tv/",
-    "scriptUrl": "https://raw.githubusercontent.com/sparrow-dante/hanime-luna-service/refs/heads/main/hanime.js?token=GHSAT0AAAAAAEIQ4O6TGCJ2PKRCCCNN643Y2VCGS4Q",
+    "scriptUrl": "https://raw.githubusercontent.com/sparrow-dante/hanime-luna-service/refs/heads/main/hanime.js",
     "type": "anime",
     "downloadSupport": false,
     "asyncJS": true,

@@ -2,9 +2,10 @@
     "sourceName": "Hanime",
     "iconUrl": "https://hanime.tv/favicon.ico",
     "author": {
-        "name": "SD"
+        "name": "SD",
+        "icon": "https://hanime.tv/favicon.ico"
     },
-    "version": "1.0.0",
+    "version": "1.0.1",
     "language": "English",
     "streamType": "HLS",
     "quality": "1080p",

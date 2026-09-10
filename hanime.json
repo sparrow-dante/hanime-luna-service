@@ -1,0 +1,18 @@
+{
+    "sourceName": "Hanime",
+    "iconUrl": "https://hanime.tv/favicon.ico",
+    "author": {
+        "name": "Custom"
+    },
+    "version": "1.0.0",
+    "language": "English",
+    "streamType": "HLS",
+    "quality": "1080p",
+    "baseUrl": "https://hanime.tv/",
+    "searchBaseUrl": "https://hanime.tv/",
+    "scriptUrl": "https://YOUR-HOST/hanime/hanime.js",
+    "type": "anime",
+    "downloadSupport": false,
+    "asyncJS": true,
+    "softsub": false
+}

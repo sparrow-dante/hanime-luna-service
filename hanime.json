@@ -9,7 +9,7 @@
     "streamType": "HLS",
     "quality": "1080p",
     "baseUrl": "https://hanime.tv/",
-    "searchBaseUrl": "https://hanime.tv/",
+    "searchBaseUrl": "https://hanime.tv/?search=%s",
     "scriptUrl": "https://raw.githubusercontent.com/sparrow-dante/hanime-luna-service/refs/heads/main/hanime.js",
     "type": "anime",
     "downloadSupport": false,

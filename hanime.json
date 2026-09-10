@@ -2,7 +2,7 @@
     "sourceName": "Hanime",
     "iconUrl": "https://hanime.tv/favicon.ico",
     "author": {
-        "name": "Custom"
+        "name": "SD"
     },
     "version": "1.0.0",
     "language": "English",
@@ -10,7 +10,7 @@
     "quality": "1080p",
     "baseUrl": "https://hanime.tv/",
     "searchBaseUrl": "https://hanime.tv/",
-    "scriptUrl": "https://YOUR-HOST/hanime/hanime.js",
+    "scriptUrl": "https://raw.githubusercontent.com/sparrow-dante/hanime-luna-service/refs/heads/main/hanime.js?token=GHSAT0AAAAAAEIQ4O6TGCJ2PKRCCCNN643Y2VCGS4Q",
     "type": "anime",
     "downloadSupport": false,
     "asyncJS": true,
